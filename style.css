@@ -1,0 +1,45 @@
+/* this is a comment */
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+html{
+    font-family: 'Quicksand', sans-serif;
+    box-lines: border-box;
+    padding-left: 5%;
+}
+
+h1{
+    font-size: 3em;
+    color: #fff;
+    text-shadow: 
+    0 0 7px darkblue,
+    0 0 10px darkblue,
+    0 0 21px darkblue,
+    0 0 42px #fff,
+    0 0 82px #fff,
+    0 0 92px #fff,
+    0 0 102px #fff;
+    text-align: center;
+} 
+
+#skills-list {
+    list-style: decimal-leading-zero;
+    color:darkblue;
+}
+
+.my-skills {
+    color: saddlebrown;
+}
+
+body {
+    background-color:antiquewhite;
+    background-image: linear-gradient(62deg, tan 0%, white 100%);
+}
+
+h2 {
+    color: saddlebrown;
+}
+
+h3 {
+    color: darkblue;
+}
